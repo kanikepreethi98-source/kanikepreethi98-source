@@ -200,38 +200,22 @@ skills for software engineering interviews.
 
 # 🌱 Currently Learning
 
-☕ Advanced Java
+Large Language Models (LLMs)
 
-🧠 Data Structures & Algorithms
+Retrieval-Augmented Generation (RAG)
 
-🚀 Spring Boot & REST APIs
+Agentic AI
 
-🤖 Machine Learning
+System Design
 
-✨ Generative AI
-
-🏗️ Software Development & System Design
+Advanced Data Structures & Algorithms
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanikepreethi98-source&show_icons=true&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com/?user=kanikepreethi98-source&theme=tokyonight" />
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikepreethi98-source&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanikepreethi98-source&theme=tokyo-night" />
 </p>
 
 ---
@@ -240,19 +224,22 @@ skills for software engineering interviews.
 
 <p align="left">
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/kanike-preethi-061398334/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Kanike_preethi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://kanikepreethi98-source.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://github.com/kanikepreethi98-source">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
 
 ---
 
