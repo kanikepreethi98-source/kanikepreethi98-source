@@ -36,11 +36,11 @@
 
 ### 🗄️ Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch,opencv,scikitlearn,streamlit,numpy,pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,scikitlearn,streamlit,numpy,pandas)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
 
