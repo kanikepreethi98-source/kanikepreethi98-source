@@ -32,45 +32,19 @@
 
 ## 👨‍💻 Languages
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-</p>
-
----
+Java • JavaScript • C • Python (Basics)
 
 ## 🗄️ Databases
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-</p>
-
----
+MySQL • MySQL Workbench
 
 ## 🚀 Frameworks & Libraries
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
-</p>
-
-`Streamlit` • `Scikit-learn` • `Pandas` • `NumPy`
-
----
+React • Spring Boot • REST APIs • Streamlit • Scikit-learn • Pandas • NumPy
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
-</p>
-
-`Jupyter Notebook` • `MySQL Workbench` • `VS Code`
-
----
+Jupyter Notebook • VS Code • Git • GitHub
 
 # 🚀 Projects
 
@@ -243,4 +217,4 @@ Advanced Data Structures & Algorithms
 
 ---
 
-⭐️ From [Kanike Preethi](https://github.com/kanikepreethi98-source)
+
