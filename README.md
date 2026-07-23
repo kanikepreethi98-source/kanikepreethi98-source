@@ -28,23 +28,23 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 
-Java • JavaScript • C • Python (Basics)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css)](https://skillicons.dev)
 
-## 🗄️ Databases
+### 🗄️ Databases
 
-MySQL • MySQL Workbench
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-## 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 
-React • Spring Boot • REST APIs • Streamlit • Scikit-learn • Pandas • NumPy
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch,opencv,scikitlearn,streamlit,numpy,pandas)](https://skillicons.dev)
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
-Jupyter Notebook • VS Code • Git • GitHub
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,ubuntu,windows,linux)](https://skillicons.dev)
 
 # 🚀 Projects
 
