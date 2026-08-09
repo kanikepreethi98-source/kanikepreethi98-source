@@ -99,12 +99,14 @@
 
 ### 🎨 Design Tools
 
-Not included in my current skill set.
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 
 
 ### 💻 Operating Systems
 
-Not included in my current skill set.
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 
 
 # 🚀 Projects
