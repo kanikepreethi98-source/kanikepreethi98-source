@@ -24,10 +24,6 @@
 
 🚀 Interested in Software Development, Artificial Intelligence and real-world problem solving.
 
-🏆 Participated in Idea Sprint Hackathon 2026 — IIT Tirupati.
-
-🚀 Participated in OutSlayer Hackathon 2026.
-
 ---
 
 ## 🌐 Socials:
