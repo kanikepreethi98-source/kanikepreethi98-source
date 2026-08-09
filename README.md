@@ -24,9 +24,6 @@
 
 🎓 B.Tech Computer Science and Engineering Student.
 
-🏆 Participated in Idea Sprint Hackathon 2026 — IIT Tirupati.
-
-🚀 Participated in OutSlayer Hackathon 2026.
 
 ---
 
@@ -250,16 +247,6 @@ Spring Boot & REST APIs
 
 ---
 
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
 
 <div align="center">
 
