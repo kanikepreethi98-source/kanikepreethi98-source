@@ -30,7 +30,7 @@
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials:
 
 <p align="left">
 
@@ -48,9 +48,8 @@
 
 </p>
 
----
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -63,9 +62,6 @@
 
 </p>
 
-`Java` • `JavaScript` • `C` • `Python (Basics)`
-
----
 
 ### 🌐 Web Development
 
@@ -77,35 +73,28 @@
 
 </p>
 
-`HTML` • `CSS` • `JavaScript` • `React`
 
----
-
-### ⚙️ Backend Development
+### 🤖 AI • Machine Learning • Deep Learning
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
 </p>
 
-`Spring Boot` • `REST APIs`
-
----
-
-### 🤖 AI • Machine Learning
-
-`Artificial Intelligence` • `Machine Learning`
-
 `Scikit-learn` • `Streamlit`
 
----
 
-### 📊 Data Science
+### 📊 Data Science & Visualization
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+</p>
 
 `Pandas` • `NumPy`
 
----
 
 ### 🗄️ Databases
 
@@ -115,10 +104,32 @@
 
 </p>
 
-`MySQL` • `MySQL Workbench`
 
----
+### 🛠️ Tools & Platforms
 
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+
+</p>
+
+`Jupyter Notebook` • `MySQL Workbench`
+
+
+### 🎨 Design Tools
+
+<p align="left">
+
+</p>
+
+
+### 💻 Operating Systems
+
+<p align="left">
+
+</p>
 ### 🧠 Core Computer Science
 
 `Object-Oriented Programming (OOPS)`
@@ -131,19 +142,6 @@
 
 ---
 
-### 🛠️ Tools & Platforms
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-
-</p>
-
-`Jupyter Notebook` • `VS Code` • `Git` • `GitHub`
-
----
 
 # 🚀 Projects
 
