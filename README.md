@@ -1,48 +1,33 @@
 <div align="center">
-
 # Hi 👋, I'm Kanike Preethi
 
-### Aspiring Software Engineer | AI/ML Enthusiast | Java & DSA Learner
+### Software Engineering Aspirant • AI/ML Enthusiast • Java & DSA Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Software+Engineering+Aspirant;AI%2FML+Enthusiast;Java+%26+DSA+Learner;Building+Impactful+Software+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Aspirant;AI%2FML+Enthusiast;Java+%26+DSA+Learner;Building+Impactful+Software+🚀&center=true&width=600&height=50)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
+
+### 🚀 Quick Snapshot
 
 🎓 B.Tech Computer Science and Engineering Student
 
 💻 Aspiring Software Engineer passionate about Software Development
 
+☕ Java Developer & Data Structures and Algorithms Enthusiast
+
 🤖 AI/ML Enthusiast interested in building intelligent applications
 
-☕ Java & Data Structures and Algorithms Enthusiast
+🌱 Currently strengthening DSA, Java, Spring Boot and Machine Learning
 
-🌱 Currently learning Advanced DSA, Machine Learning, Generative AI and Spring Boot
+🚀 Building practical projects to solve real-world problems
 
-🚀 Passionate about building practical solutions for real-world problems
+🏆 Participated in Idea Sprint Hackathon 2026 — IIT Tirupati
 
----
-
-# 🌐 Socials
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kanike-preethi-061398334/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_GMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kanikepreethi98-source">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+🌍 Participated in OutSlayer Hackathon 2026
 
 ---
 
@@ -51,38 +36,28 @@
 ## 👨‍💻 Languages
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<!-- Java, Python, C, JavaScript icons here -->
 </p>
 
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<!-- MySQL icon here -->
 </p>
 
 ## 🚀 Frameworks & Libraries
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+<!-- React, Spring Boot, Streamlit, etc. icons here -->
 </p>
-
-`Streamlit` • `Scikit-learn` • `Pandas` • `NumPy` • `REST APIs`
 
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<!-- Git, GitHub, VS Code, etc. icons here -->
 </p>
+-----
 
-`Jupyter Notebook` • `MySQL Workbench`
-
----
 
 # 🚀 Projects
 
@@ -93,34 +68,35 @@ their learning and create personalized study plans.
 
 **Tech Stack:** AI/ML • Python • Streamlit
 
-🔗 [Live Project](https://smart-study-planner-agent-9nvnasv6ujh6que8wappxuc.streamlit.app/)
+🔗 **Live Project:** https://smart-study-planner-agent-9nvnasv6ujh6que8wappxuc.streamlit.app/
 
 ---
 
 ## 📧 Spam Email Classifier
 
-A Machine Learning application that classifies emails as spam or legitimate.
+A Machine Learning application that classifies emails as spam or legitimate
+using machine learning techniques.
 
 **Tech Stack:** Python • Machine Learning • Streamlit
 
-🔗 [Live Project](https://codec-2-spam-email-classifier-8kn4livww95r8aswbu7ggp.streamlit.app/)
+🔗 **Live Project:** https://codec-2-spam-email-classifier-8kn4livww95r8aswbu7ggp.streamlit.app/
 
 ---
 
 ## 🎓 AI for Inclusive Education Platform
 
-A web platform focused on improving accessibility and creating an inclusive
+A web platform designed to improve accessibility and create a more inclusive
 learning experience for students.
 
 **Tech Stack:** React • HTML • CSS
 
-🔗 [Live Project](https://kanikepreethi98-source.github.io/impactmakers/)
+🔗 **Live Project:** https://kanikepreethi98-source.github.io/impactmakers/
 
 ---
 
 ## 🤖 Customer Churn Prediction
 
-A Machine Learning project that predicts customer churn and identifies
+A Machine Learning project that predicts customer churn and helps identify
 customers who are likely to leave a service.
 
 **Tech Stack:** Python • Machine Learning • Scikit-learn • Streamlit
@@ -129,8 +105,8 @@ customers who are likely to leave a service.
 
 ## 🎬 Movie Recommendation System
 
-A Machine Learning based recommendation system that suggests movies based
-on user preferences.
+A recommendation system designed to suggest movies based on user preferences
+and similarity between movie data.
 
 **Tech Stack:** Python • Machine Learning
 
@@ -138,7 +114,8 @@ on user preferences.
 
 ## 🎤 Voice Recognition System
 
-An AI-based application that processes and recognizes voice input.
+An AI-based application that processes and recognizes voice input using
+Python-based technologies.
 
 **Tech Stack:** Python • AI/ML
 
@@ -150,9 +127,17 @@ An AI-based application that processes and recognizes voice input.
 
 📅 May 2026 – June 2026
 
-Worked on practical Artificial Intelligence and Machine Learning applications.
+During my internship, I worked on practical Artificial Intelligence and
+Machine Learning applications and gained experience in:
 
-### Projects
+- Python
+- Machine Learning
+- Streamlit
+- GitHub
+- Model Development
+- Model Deployment
+
+### Projects Worked On
 
 🤖 Customer Churn Prediction
 
@@ -166,17 +151,25 @@ Worked on practical Artificial Intelligence and Machine Learning applications.
 
 # 🧠 DSA & Problem Solving
 
-💻 Actively practicing Data Structures and Algorithms for Software Engineering interviews.
+I'm consistently improving my problem-solving skills through coding practice
+and LeetCode.
 
-### Topics
+### 📚 Topics I'm Practicing
 
-`Arrays` • `Strings` • `Hashing` • `Two Pointers`
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Linked Lists
+- Stack & Queue
+- Binary Search
+- Greedy Algorithms
+- Dynamic Programming
 
-`Sliding Window` • `Linked Lists` • `Stack & Queue`
-
-`Binary Search` • `Greedy` • `Dynamic Programming`
-
-`Graphs`
+💻 Currently solving coding problems and strengthening my problem-solving
+skills for software engineering interviews.
 
 ---
 
@@ -184,11 +177,11 @@ Worked on practical Artificial Intelligence and Machine Learning applications.
 
 🏅 Participated in Idea Sprint Hackathon 2026 — IIT Tirupati
 
-🚀 Participated in OutSlayer Hackathon 2026
+🚀 Participated in OutSlayer Hackathon 2026 — Beyond Campuz
+
+💻 Actively practicing Data Structures & Algorithms
 
 🤖 Built multiple AI/ML applications
-
-💻 Consistently practicing DSA and problem solving
 
 ---
 
@@ -204,16 +197,12 @@ System Design
 
 Advanced Data Structures & Algorithms
 
-Spring Boot & REST APIs
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanikepreethi98-source&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanikepreethi98-source&theme=tokyo-night" />
 </p>
 
 ---
@@ -222,7 +211,7 @@ Spring Boot & REST APIs
 
 <p align="left">
 
-<a href="mailto:YOUR_GMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -238,8 +227,51 @@ Spring Boot & REST APIs
 
 ---
 
-<div align="center">
+⭐️ From [Kanike Preethi](https://github.com/kanikepreethi98-source)
+---
+
+
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanikepreethi98-source&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=kanikepreethi98-source&theme=tokyonight" />
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikepreethi98-source&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kanike-preethi-061398334/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Kanike_preethi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://kanikepreethi98-source.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 ⭐️ From [Kanike Preethi](https://github.com/kanikepreethi98-source)
-
-</div>
