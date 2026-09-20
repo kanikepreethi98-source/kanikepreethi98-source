@@ -237,16 +237,6 @@ Spring Boot & REST APIs
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanikepreethi98-source&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 
 <div align="center">
 
